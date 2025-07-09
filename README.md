@@ -58,7 +58,7 @@ A comprehensive web development toolkit that combines CDN resources, task manage
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/developer-hub.git
+   git@github.com:Reyanshoaib45/HelperWebsite.git
    cd developer-hub
    ```
 
